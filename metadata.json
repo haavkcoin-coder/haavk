@@ -2,7 +2,7 @@
   "name": "Haavk Coin",
   "symbol": "HAAVK",
   "description": "The sky belongs to Haavk. Do not wish to go back—our watches and clocks may return to square one, but we can never go back to yesterday. Do not ask when the war will end; such a concept does not exist in Haavk's daily life. From the aerial attack on the opening ceremony of the Space City to the bombing at the Batitaric press conference, people refuse to trust the goodwill of ideals. They only believe in the truth of bullets. We have no choice. Our ambition is not limited to fighting north or south; we aim to wage war across the entire world, leaving it in awe of the great achievements forged by Haavk.",
-  "image": "logo.png",
+  "image": "https://github.com/haavkcoin-coder/haavk/blob/main/logo.png?raw=true",
   "external_url": "https://haavk.com",
   "attributes": [
     { "trait_type": "Sector", "value": "Delta" }
